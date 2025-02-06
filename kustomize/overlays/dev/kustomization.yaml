@@ -5,4 +5,4 @@ resources:
 
 images:
   - name: koraichi/gitops-demo:VERSION
-    newTag: "4"
+    newTag: "5"
