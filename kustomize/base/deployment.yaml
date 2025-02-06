@@ -16,7 +16,7 @@ spec:
         runAsUser: 1001
       containers:
       - name: web
-        image: docker.io/koraichi/gitops-demo:1
+        image: koraichi/gitops-demo:VERSION
         ports:
         - containerPort: 80
         resources:
