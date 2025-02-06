@@ -5,4 +5,4 @@ resources:
 
 images:
   - name: koraichi/gitops-demo:VERSION
-    newTag: "0.0.1"
+    newTag: docker.io/koraichi/gitops-demo:3
