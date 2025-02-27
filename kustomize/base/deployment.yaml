@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: web
-        image: koraichi/gitops-demo:VERSION
+        image: docker.io/koraichi/gitops-demo:10
         ports:
         - containerPort: 80
